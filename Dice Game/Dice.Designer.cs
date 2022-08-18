@@ -61,7 +61,7 @@
             // 
             this.rollButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.rollButton.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.rollButton.Location = new System.Drawing.Point(72, 129);
+            this.rollButton.Location = new System.Drawing.Point(81, 129);
             this.rollButton.Name = "rollButton";
             this.rollButton.Size = new System.Drawing.Size(93, 31);
             this.rollButton.TabIndex = 0;
@@ -81,7 +81,7 @@
             // dieOne6
             // 
             this.dieOne6.Image = global::Dice_Game.Properties.Resources.DIE___6;
-            this.dieOne6.Location = new System.Drawing.Point(12, 12);
+            this.dieOne6.Location = new System.Drawing.Point(17, 12);
             this.dieOne6.Name = "dieOne6";
             this.dieOne6.Size = new System.Drawing.Size(100, 100);
             this.dieOne6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -92,7 +92,7 @@
             // dieOne5
             // 
             this.dieOne5.Image = global::Dice_Game.Properties.Resources.DIE___5;
-            this.dieOne5.Location = new System.Drawing.Point(12, 12);
+            this.dieOne5.Location = new System.Drawing.Point(17, 12);
             this.dieOne5.Name = "dieOne5";
             this.dieOne5.Size = new System.Drawing.Size(100, 100);
             this.dieOne5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -103,7 +103,7 @@
             // dieOne4
             // 
             this.dieOne4.Image = global::Dice_Game.Properties.Resources.DIE___4;
-            this.dieOne4.Location = new System.Drawing.Point(12, 12);
+            this.dieOne4.Location = new System.Drawing.Point(17, 12);
             this.dieOne4.Name = "dieOne4";
             this.dieOne4.Size = new System.Drawing.Size(100, 100);
             this.dieOne4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -114,7 +114,7 @@
             // dieOne3
             // 
             this.dieOne3.Image = global::Dice_Game.Properties.Resources.DIE___3;
-            this.dieOne3.Location = new System.Drawing.Point(12, 12);
+            this.dieOne3.Location = new System.Drawing.Point(17, 12);
             this.dieOne3.Name = "dieOne3";
             this.dieOne3.Size = new System.Drawing.Size(100, 100);
             this.dieOne3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -125,7 +125,7 @@
             // dieOne2
             // 
             this.dieOne2.Image = global::Dice_Game.Properties.Resources.DIE___2;
-            this.dieOne2.Location = new System.Drawing.Point(12, 12);
+            this.dieOne2.Location = new System.Drawing.Point(17, 12);
             this.dieOne2.Name = "dieOne2";
             this.dieOne2.Size = new System.Drawing.Size(100, 100);
             this.dieOne2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -136,7 +136,7 @@
             // dieOne1
             // 
             this.dieOne1.Image = global::Dice_Game.Properties.Resources.DIE___1;
-            this.dieOne1.Location = new System.Drawing.Point(12, 12);
+            this.dieOne1.Location = new System.Drawing.Point(17, 12);
             this.dieOne1.Name = "dieOne1";
             this.dieOne1.Size = new System.Drawing.Size(100, 100);
             this.dieOne1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -146,7 +146,7 @@
             // dieTwo1
             // 
             this.dieTwo1.Image = global::Dice_Game.Properties.Resources.DIE___1;
-            this.dieTwo1.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo1.Location = new System.Drawing.Point(137, 12);
             this.dieTwo1.Name = "dieTwo1";
             this.dieTwo1.Size = new System.Drawing.Size(100, 100);
             this.dieTwo1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -157,7 +157,7 @@
             // dieTwo2
             // 
             this.dieTwo2.Image = global::Dice_Game.Properties.Resources.DIE___2;
-            this.dieTwo2.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo2.Location = new System.Drawing.Point(137, 12);
             this.dieTwo2.Name = "dieTwo2";
             this.dieTwo2.Size = new System.Drawing.Size(100, 100);
             this.dieTwo2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -167,7 +167,7 @@
             // dieTwo3
             // 
             this.dieTwo3.Image = global::Dice_Game.Properties.Resources.DIE___3;
-            this.dieTwo3.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo3.Location = new System.Drawing.Point(137, 12);
             this.dieTwo3.Name = "dieTwo3";
             this.dieTwo3.Size = new System.Drawing.Size(100, 100);
             this.dieTwo3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -178,7 +178,7 @@
             // dieTwo4
             // 
             this.dieTwo4.Image = global::Dice_Game.Properties.Resources.DIE___4;
-            this.dieTwo4.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo4.Location = new System.Drawing.Point(137, 12);
             this.dieTwo4.Name = "dieTwo4";
             this.dieTwo4.Size = new System.Drawing.Size(100, 100);
             this.dieTwo4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -189,7 +189,7 @@
             // dieTwo5
             // 
             this.dieTwo5.Image = global::Dice_Game.Properties.Resources.DIE___5;
-            this.dieTwo5.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo5.Location = new System.Drawing.Point(137, 12);
             this.dieTwo5.Name = "dieTwo5";
             this.dieTwo5.Size = new System.Drawing.Size(100, 100);
             this.dieTwo5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -200,7 +200,7 @@
             // dieTwo6
             // 
             this.dieTwo6.Image = global::Dice_Game.Properties.Resources.DIE___6;
-            this.dieTwo6.Location = new System.Drawing.Point(132, 12);
+            this.dieTwo6.Location = new System.Drawing.Point(137, 12);
             this.dieTwo6.Name = "dieTwo6";
             this.dieTwo6.Size = new System.Drawing.Size(100, 100);
             this.dieTwo6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -230,7 +230,7 @@
             this.Controls.Add(this.dieOne6);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Dice";
-            this.Text = "Form1";
+            this.Text = "Dice Game";
             ((System.ComponentModel.ISupportInitialize)(this.dieOne6)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dieOne5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dieOne4)).EndInit();
